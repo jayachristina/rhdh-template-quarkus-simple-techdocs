@@ -1,9 +1,9 @@
 apiVersion: scaffolder.backstage.io/v1beta3
 kind: Template
 metadata:
-  name: quarkus-web-template
-  title: Quarkus Service
-  description: Create a simple microservice using Quarkus with ArgoCD
+  name: quarkus-web-techdocs-template
+  title: Quarkus Service + TechDocs
+  description: Create a simple microservice using Quarkus with ArgoCD with TechDocs enabled
   tags:
     - recommended
     - java
